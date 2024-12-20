@@ -809,6 +809,14 @@
     "provider": "kubernetes",
     "releases": [
       {
+        "version": "3.2.0-rc.6",
+        "date": "2024-12-20T01:05:36.208086Z",
+        "requires": "clouddriver>=0.0.0",
+        "sha512sum": "b21f7b8e02f4a23e066033ff3320c8b69597ba5d71fdd4cc766517ffddabdffab980ed276966f3c3e92dab0d23449e9b473697c845050c9628d94fb567b2c402",
+        "state": "",
+        "url": "https://github.com/edgarulg/pluginRepository/releases/download/v3.2.0-rc.6/k8s-custom-resource-status-3.2.0-rc.6.zip"
+      },
+      {
         "version": "3.2.0-rc.5",
         "date": "2024-12-19T22:31:38.044054Z",
         "requires": "clouddriver>=0.0.0",
